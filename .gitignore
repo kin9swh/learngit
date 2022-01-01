@@ -12,5 +12,6 @@ dist
 build
 
 # My configurations:
+gitskills/
 db.ini
 deploy_key_rsa
